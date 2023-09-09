@@ -180,6 +180,15 @@
       },
       "dock_status": {
         "name": "Dock status"
+      },
+      "mop_drying_status": {
+        "name": "Mop drying"
+      },
+      "mop_drying_remaining_time": {
+        "name": "Mop drying remaining time"
+      },
+      "clean_percent": {
+        "name": "Cleaning progress"
       }
     },
     "binary_sensor": {
@@ -271,10 +280,10 @@
         "name": "DnD end"
       },
       "valley_electricity_start": {
-        "name": "Valley electricity start"
+        "name": "Off-Peak charging start"
       },
       "valley_electricity_end": {
-        "name": "Valley electricity end"
+        "name": "Off-Peak charging end"
       }
     },
     "switch": {
@@ -282,7 +291,7 @@
         "name": "Child lock"
       },
       "flow_led_status": {
-        "name": "Flow led status"
+        "name": "Status Indicator Light"
       },
       "dnd_switch": {
         "name": "DnD switch"
