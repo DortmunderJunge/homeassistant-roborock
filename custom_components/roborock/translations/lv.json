@@ -189,9 +189,6 @@
       },
       "clean_percent": {
         "name": "Uzkopšanas progress"
-      },
-      "battery": {
-        "name": "Akumulators"
       }
     },
     "binary_sensor": {
